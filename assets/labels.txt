@@ -1,0 +1,5 @@
+0 scoiattolo
+1 pecora
+2 mucca
+3 farfalla
+4 elefante
